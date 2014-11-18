@@ -14,11 +14,19 @@ But most importantly, *change is coming whether historians like it or not*. Here
 
 Note the [conversation that ensued on Twitter after Milligan mentioned all this](https://twitter.com/ianmilligan1/status/524932470001897472) and also [here](https://twitter.com/ianmilligan1/status/524932589875101697)
 
-We will discuss 
+## We will discuss 
 + how we can make our research notes open, 
 + what that implies for how we do research, 
 + and how we can use this process to maintain our scholarly voice online.
 
-Really, it's also a kind of ['knowledge mobilization'](http://www.sshrc-crsh.gc.ca/society-societe/community-communite/index-eng.aspx#2). In the folders for this module, you will find exercises related to setting up your github account, how to commit, fork, push and pull files to your own repository and to others'. There are exercises on how to use services like [Dillinger.io](http://dillinger.io), [Prose.io](http://prose.io), and [Stackedit.io](http://stackedit.io) to make changes to a [markdown](http://daringfireball.net/projects/markdown/) file. Really, it's about [sustainable authorship](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+Really, it's also a kind of ['knowledge mobilization'](http://www.sshrc-crsh.gc.ca/society-societe/community-communite/index-eng.aspx#2). In the folders for this module, you will find exercises related to setting up your github account, how to commit, fork, push and pull files to your own repository and to others'. There are exercises on how to use services like [Dillinger.io](http://dillinger.io), [Prose.io](http://prose.io), and [Stackedit.io](http://stackedit.io) to make changes to a [markdown](http://daringfireball.net/projects/markdown/) file. Really, it's about [sustainable authorship](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). 
+
+## By the end of this module you will know:
++ how to work with github to foster collaboration (including 'issues' and the 'wiki' pages)
++ how to set up, fork, and make changes to files and repositories
+
+## You will also have set up:
++ your own *home base* or *open research notebook* on the web
++ a workflow for pushing your research notes to the web, using a combination of various pieces of open source software
 
 I do expect you to click through every link I provide, and to read these materials. Otherwise, you'll begin to fall behind quite quickly.

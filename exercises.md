@@ -1,5 +1,6 @@
+_All 4 exercises are on this page. Remember to scroll!_
 
-+ EXERCISE 1: learning markdown syntax with dillinger.io
+## EXERCISE 1: learning markdown syntax with dillinger.io
 
 Have you ever fought with Word or another wordprocessor, trying to get things just _right_? Word processing is a mess. It conflates writing with typesetting and layout. Sometimes, you just want to get the words out. Othertimes, you want to make your writing as accessible as possible... but your intended recipient can't open your file, because they don't use the same wordprocessor. Or perhaps you wrote up some great notes that you'd love to have in a slideshow; but you can't, because copying and pasting preserves a whole lot of extra _gunk_ that messes up your materials.
 
@@ -18,8 +19,32 @@ In this exercise, I want you to become familiar with Markdown syntax. There are 
 1. You will need this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 2. Go to [dillinger.io](http://dillinger.io) in a new browser window. This looks like a wordprocessor. The left hand side of the screen is where you write, the right hand side shows you what your text will look like. Dillinger 'saves' your work in your browser's memory. You can also point it to save to your dropbox, google drive, or github account (under the cogwheel icon. Do you have a dropbox etc account? You should set that up now, if you don't).
 3. Write a short 200-500 word piece on why you are taking this class; what you hope to achieve here; the kind of digital experience you already have versus the kind of experience you wish to have.
+4. Have at least two images (creative commons licensed for re-use - do you know how to find these?) and link outwards to four websites that are relevant to your piece.
+5. In the 'document name' slot, make sure to add the file type .md at the end
+6. 'Save to' your dropbox, github, google drive, or one drive account.
+
+See how easy that was? Don't worry about submitting this.... yet.
 
 
-+ EXERCISE 2: setting up a domain (webspace) of your own with reclaimhosting.com
-+ EXERCISE 3: setting up a simple open notebook (blog + personal github repo + notational velocity or notation, as appropriate)
-+ EXERCISE 4: forking & contributing to a repository (fork the syllabus, then add your name, blog site, open notebook, to it)
+## EXERCISE 2: setting up a domain (webspace) of your own with reclaimhosting.com, or another service
+
+I believe that it is of fundamental importance that you have webspace of your own, as an HQ for your scholarly identity online. [reclaimhosting.com] is one option that I would recommend; it currently costs about $25 for a year's worth of hosting. If you purchase a domain with them, they have a number of one-click installs for all kinds of useful platforms for the kind of work we do as digital historians.
+
+There are other alternatives. For many years, I have managed quite well with a free Wordpress.com account as my HQ on the web (http://electricarchaeology.ca). You could set yourself up this way as well. 
+
+Another option is to use a free github account. You could use [github pages](https://pages.github.com/). 
+
+In fact, **everyone** should have a github account whether or not you use it as your online base. Set up an account. 
+
+There are other solutions out there too. **Talk with me if you have privacy concerns, and we'll figure out what could work for you** 
+
+1. Choose a solution and set up your scholarly HQ. 
+2. Open up dillinger.io again; see how your piece from Exercise 1 loads up? Select 'export as'... html and, consulting your solution's documentation, get that markdown document online. If you're using github as a solution, you can push your document **directly** to your gihub repository. Github natively understands markdown, and styles it appropriately for the web.
+
+If you look at that [programming historian tutorial again](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) the authors take you through the process of installing a piece of software on your machine called 'Pandoc'. You work with Pandoc on the command line on your computer (on Windows computers, search for 'cmd' and run that; on Mac, look for 'terminal' under your applications). With a single line of code, you can convert your Markdown documents into Word, into Pdf, into Html... it's extraordinarily useful. Take some time to read through this tutorial. 
+
+## EXERCISE 3: setting up a simple open notebook (blog + personal github repo + notational velocity or notation, as appropriate)
+
+
+## EXERCISE 4: forking & contributing to a repository 
+(fork the syllabus, then add your name, blog site, open notebook, to it)

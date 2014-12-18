@@ -69,8 +69,11 @@ The bit with the .toread is a tag. I'm not likely to use that particular pattern
 
 ## EXERCISE 4: forking & contributing to a repository 
 In this exercise, I would like you to 
+
 1. Fork the syllabus for this course.
+
 2. Add your name, and the location of your online HQ & open notebook as properly formatted markdown.
+
 3. Make a pull request.
 
 

@@ -7,6 +7,7 @@ There are a number of reasons why you should want to do this. Over the two weeks
 + [Ian Milligan](http://ianmilligan.ca/2014/10/23/sshrcs-research-data-archiving-policy-and-historians/)
 + [another post by Milligan](http://ianmilligan.ca/2014/01/27/why-canadas-open-data-initiative-matters-to-historians/)
 + [Jo Guldi and David Armitage](http://historymanifesto.cambridge.org/)
++ [Mike Caulfield](http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/)
 
 But most importantly, *change is coming whether historians like it or not*. Here in Canada, SSHRC has a [research data archiving policy](http://www.sshrc-crsh.gc.ca/about-au_sujet/policies-politiques/statements-enonces/edata-donnees_electroniques-eng.aspx)
 

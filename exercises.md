@@ -69,3 +69,8 @@ The bit with the .toread is a tag. I'm not likely to use that particular pattern
 
 ## EXERCISE 4: forking & contributing to a repository 
 (fork the syllabus, then add your name, blog site, open notebook, to it)
+
+
+-----
+
+Now that you've worked through all of that, I can tell you that there are many different ways you could approach the problem of making your research notes publically available. You could connect dillinger.io or prose.io directly to your github accounts, and always make your notes that way. The advantage of notational velocity and resophnotes is that search & note creation happen at the same time. There are also more features in both programs that let you cross-reference notes and so on. The key is to figure out a solution that works for you, *and* that lets you make your research open. 'What if I get scooped?' I hear you say. Well, let's talk about what [Caleb McDaniel has to say](http://wcm1.web.rice.edu/open-notebook-history.html). And we should also talk about the [smallest federated wiki](http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/).

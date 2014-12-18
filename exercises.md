@@ -28,13 +28,13 @@ See how easy that was? Don't worry about submitting this.... yet.
 
 ## EXERCISE 2: setting up a domain (webspace) of your own with reclaimhosting.com, or another service
 
-I believe that it is of fundamental importance that you have webspace of your own, as an HQ for your scholarly identity online. [reclaimhosting.com] is one option that I would recommend; it currently costs about $25 for a year's worth of hosting. If you purchase a domain with them, they have a number of one-click installs for all kinds of useful platforms for the kind of work we do as digital historians.
+I believe that it is of fundamental importance that you have webspace of your own, as an HQ for your scholarly identity online. [reclaimhosting.com](http://reclaimhosting.com) is one option that I would recommend; it currently costs about $25 for a year's worth of hosting. If you purchase a domain with them, they have a number of one-click installs for all kinds of useful platforms for the kind of work we do as digital historians.
 
 There are other alternatives. For many years, I have managed quite well with a free Wordpress.com account as my HQ on the web (http://electricarchaeology.ca). You could set yourself up this way as well. 
 
 Another option is to use a free github account. You could use [github pages](https://pages.github.com/). 
 
-*In fact, **everyone** should have a github account* whether or not you use it as your online base. Set up an account. 
+*In fact, **everyone** needs to have a github account* whether or not you use it as your online base. [Set up an account now](http://github.com/join). 
 
 There are other solutions out there too. **Talk with me if you have privacy concerns, and we'll figure out what could work for you** 
 

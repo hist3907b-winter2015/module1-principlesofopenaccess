@@ -34,16 +34,33 @@ There are other alternatives. For many years, I have managed quite well with a f
 
 Another option is to use a free github account. You could use [github pages](https://pages.github.com/). 
 
-In fact, **everyone** should have a github account whether or not you use it as your online base. Set up an account. 
+*In fact, **everyone** should have a github account* whether or not you use it as your online base. Set up an account. 
 
 There are other solutions out there too. **Talk with me if you have privacy concerns, and we'll figure out what could work for you** 
 
 1. Choose a solution and set up your scholarly HQ. 
-2. Open up dillinger.io again; see how your piece from Exercise 1 loads up? Select 'export as'... html and, consulting your solution's documentation, get that markdown document online. If you're using github as a solution, you can push your document **directly** to your gihub repository. Github natively understands markdown, and styles it appropriately for the web.
+2. Open up dillinger.io again; see how your piece from Exercise 1 loads up? Select 'export as'... and, consulting your solution's documentation, get that document online. If you're using github as a solution, you can push your document **directly** to your github repository. Github natively understands markdown, and styles it appropriately for the web. For other platforms, export as html is probably your best bet. You could copy and paste the html itself into a blog post, for instance.
 
 If you look at that [programming historian tutorial again](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) the authors take you through the process of installing a piece of software on your machine called 'Pandoc'. You work with Pandoc on the command line on your computer (on Windows computers, search for 'cmd' and run that; on Mac, look for 'terminal' under your applications). With a single line of code, you can convert your Markdown documents into Word, into Pdf, into Html... it's extraordinarily useful. Take some time to read through this tutorial. 
 
 ## EXERCISE 3: setting up a simple open notebook (blog + personal github repo + notational velocity or notation, as appropriate)
+
+In this exercise, you create a repository, and then set up your note taking software so that it saves your notes into your repository. This allows you to keep track of changes to your notes, and also to have an open backup online. An online version of your notes allows others to contribute to, and build from, your research! When people 'fork' or copy your repository, you can consider that a form of citation, as well. There are other benefits; we will discuss these in class.
+
+1. For this exercise, I want you to do this tutorial first: [trygit](https://try.github.io/levels/1/challenges/1). This tutorial emulates using the version control software git. It explains and walks you through the concepts. If you've never used the command line or terminal on your computer, now's your chance!
+2. When you sign up for a github account, one of the things that can be set up is a user interface that handles all the commands. [Here's the download for Windows](https://windows.github.com/) and [here's the download for Mac](https://mac.github.com/). Download and set up the appropriate version on your computer.
+3. Now you're going to set up your own open note book by creating a new repository. Go to github.com and login. Then, follow these [detailed instructions to create a new repository] (https://help.github.com/articles/create-a-repo/). Call it 'my research notebook' or something similar. 
+4. In your github interface on your computer, select 'syncronize'. The repository you just created online is now on your computer (it will be a folder inside your github folder). Challenge: can you locate this folder?
+5. Download and set up Notational Velocity [(Mac)](http://notational.net/) or ResophNotes [(PC)](http://resoph.com/ResophNotes/Welcome.html). In **notational velocity** you can change the settings so that each note is its own rtf file, and the location where notational velocity. Change to rtf, and make it save in your open notebook repository. For **ResophNotes**, click on the cogwheel icon at the bottom right. Then select the storage tab. Tick the 'plain text file' radio button, and the 'save title in text file' option. Then, in 'file directory', change the path to your open notebook repository. Then click ok.
+6. You now have a system in place for quickly taking notes, and for archiving them online on github. Let's take some notes.
+7. First, think about how you take notes. Knowing that this software searches the titles of your notes, you might like to figure out a system for grouping notes. I will create a new 'to read' note for instance by titling it 
+  
+  > .xtoread The Information James Gleick 
+
+The bit with the .toread is a tag. I'm not likely to use that particular pattern of letters anywhere else, so it makes a good tag to search on. Then, when I want to know what it is I have under that tag, I just type into the search field .xtoread and I get all my notes. 
+8. Think of five tags you would often use in your research. Then, I would like you to make ten notes on this keynote by Tim Hitchock, [Big Data For Dead People](http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html) 
+9. Once you've finished your notes (summarize! don't copy out text! include some bibliography in every note, so you know where your thoughts came from! you can use your notes as part of your writing if you've used summaries!) open your github software. It will now be showing that changes have happened in your repository. Commit the changes, then synchronize.
+10. Go to your repository online. Refresh the page. Your notes are now online. The final step is the 'narrative' of your notetaking. I often make blog posts to remind myself of what I was doing, what I was thinking, and to gather together links to useful resources etc. The narrative part of your open notebook ecology could be done as a new note, or a blog post. Your choice. Explain your tagging system, and link to your repository.
 
 
 ## EXERCISE 4: forking & contributing to a repository 

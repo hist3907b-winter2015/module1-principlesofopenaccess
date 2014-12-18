@@ -53,7 +53,8 @@ In this exercise, you create a repository, and then set up your note taking soft
 4. In your github interface on your computer, select 'syncronize'. The repository you just created online is now on your computer (it will be a folder inside your github folder). Challenge: can you locate this folder?
 5. Download and set up Notational Velocity [(Mac)](http://notational.net/) or ResophNotes [(PC)](http://resoph.com/ResophNotes/Welcome.html). In **notational velocity** you can change the settings so that each note is its own rtf file, and you can change the location where notational velocity saves. Change to rtf, and make it save in your open notebook repository. For **ResophNotes**, click on the cogwheel icon at the bottom right. Then select the storage tab. Tick the 'plain text file' radio button, and the 'save title in text file' option. Then, in 'file directory', change the path to your open notebook repository. Then click ok.
 6. You now have a system in place for quickly taking notes, and for archiving them online on github. Let's take some notes.
-7. First, think about how you take notes. Knowing that this software searches the titles of your notes, you might like to figure out a system for grouping notes in the title. I will create a new 'to read' note for instance by titling it 
+
+Let's think about how you take notes. Knowing that this software searches the titles of your notes, you might like to figure out a system for grouping notes in the title. I will create a new 'to read' note for instance by titling it 
   
   > .xtoread The Information James Gleick 
 

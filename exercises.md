@@ -1,6 +1,6 @@
 _All 4 exercises are on this page. Remember to scroll!_
 
-## EXERCISE 1: learning markdown syntax with dillinger.io
+## EXERCISE 1: learning markdown syntax with dillinger.io or prose.io
 
 Have you ever fought with Word or another wordprocessor, trying to get things just _right_? Word processing is a mess. It conflates writing with typesetting and layout. Sometimes, you just want to get the words out. Othertimes, you want to make your writing as accessible as possible... but your intended recipient can't open your file, because they don't use the same wordprocessor. Or perhaps you wrote up some great notes that you'd love to have in a slideshow; but you can't, because copying and pasting preserves a whole lot of extra _gunk_ that messes up your materials.
 

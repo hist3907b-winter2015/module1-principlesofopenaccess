@@ -66,6 +66,7 @@ The bit with the .toread is a tag. I'm not likely to use that particular pattern
 
 10. Go to your repository online. Refresh the page. Your notes are now online. The final step is the 'narrative' of your notetaking. I often make blog posts to remind myself of what I was doing, what I was thinking, and to gather together links to useful resources etc. The narrative part of your open notebook ecology could be done as a new note, or a blog post. Your choice. Explain your tagging system, and link to your repository.
 
+*Postscript to this exercise* Read James Baker's piece on ['Preserving Your Research Data'](http://programminghistorian.org/lessons/preserving-your-research-data) and, when you come to start working on your final project, see if you can apply his lessons to organizing your research.
 
 ## EXERCISE 4: forking & contributing to a repository 
 In this exercise, I would like you to 
@@ -80,3 +81,5 @@ In this exercise, I would like you to
 -----
 
 Now that you've worked through all of that, I can tell you that there are many different ways you could approach the problem of making your research notes publically available. You could connect dillinger.io or prose.io directly to your github accounts, and always make your notes that way. The advantage of notational velocity and resophnotes is that search & note creation happen at the same time. There are also more features in both programs that let you cross-reference notes and so on. The key is to figure out a solution that works for you, *and* that lets you make your research open. 'What if I get scooped?' I hear you say. Well, let's talk about what [Caleb McDaniel has to say](http://wcm1.web.rice.edu/open-notebook-history.html). And we should also talk about the [smallest federated wiki](http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/).
+
+
